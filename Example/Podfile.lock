@@ -1,0 +1,14 @@
+PODS:
+  - SYPickUpMotion (0.1.0)
+
+DEPENDENCIES:
+  - SYPickUpMotion (from `../`)
+
+EXTERNAL SOURCES:
+  SYPickUpMotion:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SYPickUpMotion: bc1baa5e4f572b3a26f8bf24541c174012f64fb5
+
+COCOAPODS: 0.33.1
